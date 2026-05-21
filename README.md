@@ -1,4 +1,4 @@
-# Docker Core Concepts Lab
+ # Docker Core Concepts Lab
 
 ## Topics Covered
 - Docker Images
